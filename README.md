@@ -13,8 +13,11 @@
 
 ## Выводы 
 
-1. После проведения когортного анализа, выделения и построение графика retention для пользователей, привлеченной рекламой, видно, что активность рекламных пользователей сошла на нет.  ![retention](https://github.com/v-makarov-code/cohort-analysis-marketing-campaign/blob/main/retention_plot.png)  *Рис.1. График retention рекламных пользователей*
-2. После анализа графика DAU, а также детализации по пользователям из городов России, видно, что 24 мая таким крупным городам как Москве и Санкт-Петербургу(и др.) не была доступна лента.  ![DAU](https://github.com/v-makarov-code/cohort-analysis-marketing-campaign/blob/main/DAU_plot.png)  *Рис.1. График DAU с датами рекламной компании и сбоем*
+1. После проведения когортного анализа, выделения и построение графика retention для пользователей, привлеченной рекламой, видно, что активность рекламных пользователей сошла на нет.  ![retention](https://github.com/v-makarov-code/cohort-analysis-marketing-campaign/blob/main/retention_plot.png)
+*Рис.1. График retention рекламных пользователей*
+2. После анализа графика DAU, а также детализации по пользователям из городов России, видно, что 24 мая таким крупным городам как Москве и Санкт-Петербургу(и др.) не была доступна лента.
+![DAU](https://github.com/v-makarov-code/cohort-analysis-marketing-campaign/blob/main/DAU_plot.png)
+*Рис.2. График DAU с датами рекламной компании и сбоем*
 
 ## Стек
 
